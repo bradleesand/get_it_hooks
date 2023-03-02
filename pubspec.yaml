@@ -1,6 +1,6 @@
 name: get_it_hooks
 description: A new Flutter package project.
-version: 2.0.1
+version: 2.0.2
 author: Thomas Burkhart
 homepage: https://github.com/escamoteur/get_it_hooks
 
@@ -10,7 +10,7 @@ environment:
 
 dependencies:
   get_it: ^7.0.0
-  flutter_hooks: ^0.16.0
+  flutter_hooks: ^0.18.6
   flutter:
     sdk: flutter
 
